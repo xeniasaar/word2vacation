@@ -6,6 +6,7 @@ The folder Flask contains our final application which can be used to play arroun
 
 # Start the application on localhost:5000/
 ```console
-pip install -r Flask/requirements.txt
-python Flask/app.py
+cd Flask
+pip install -r requirements.txt
+python app.py
 ```
